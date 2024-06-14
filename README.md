@@ -44,24 +44,4 @@ A functional calculator that performs basic arithmetic operations.
 - Buttons for digits and basic operations (addition, subtraction, multiplication, division)
 - Display to show the current input and results
 
-codsoft-internship-projects/
-│
-├── Portfolio-Website/
-│   ├── index.html
-│   ├── styles.css
-│   ├── script.js
-│   └── assets/
-│       └── images/
-│
-├── Landing-Page/
-│   ├── index.html
-│   ├── styles.css
-│   └── assets/
-│       └── images/
-│
-└── Calculator/
-    ├── index.html
-    ├── styles.css
-    └── script.js
-
- `https://github.com/settings/profile` and `santoshbisht2001@gmail.com` with your actual GitHub repository URL and your email address, respectively. This README provides a clear and structured overview of your projects and guides users on how to interact with them.
+ `https://github.com/santoshbisht2001/CodSoft` and `santoshbisht2001@gmail.com` with your actual GitHub repository URL and your email address, respectively. This README provides a clear and structured overview of your projects and guides users on how to interact with them.
